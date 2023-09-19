@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marion", "Marion\Marion.csproj", "{593468D0-67DC-493C-8A59-54FC55A10518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{593468D0-67DC-493C-8A59-54FC55A10518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593468D0-67DC-493C-8A59-54FC55A10518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593468D0-67DC-493C-8A59-54FC55A10518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593468D0-67DC-493C-8A59-54FC55A10518}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5CABEE8-EAB6-422A-83B0-DD5B9CF4DF71}
+	EndGlobalSection
+EndGlobal
